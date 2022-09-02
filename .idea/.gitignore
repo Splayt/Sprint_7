@@ -1,4 +1,9 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+<<<<<<< Updated upstream
 .idea/
+=======
+/.idea/
+/.allure/
+>>>>>>> Stashed changes
